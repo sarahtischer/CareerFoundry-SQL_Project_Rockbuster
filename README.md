@@ -20,7 +20,7 @@ Rockbuster Stealth LLC, a movie rental company, is transitioning to an online vi
 Data was analyzed using pgAdmin4 and PostgreSQL
 
 ## Visualizations
-Visualizations were created using [Tableau](https://public.tableau.com/app/profile/sarah.tischer/viz/3_10_Presenting_SQL_Results/RockbusterStealthLLC)
+Visualizations were created using Tableau Public can be viewed in the [Tableau Workbook](https://public.tableau.com/app/profile/sarah.tischer/viz/3_10_Presenting_SQL_Results/RockbusterStealthLLC)
 
 ## Summary
 The Rockbuster Stealth Data Analysis Project equips analysts with SQL knowledge and data-driven decision-making skills. By analyzing Rockbuster's data, answering critical business questions, and presenting actionable insights, analysts contribute to the company's strategic initiatives in a competitive market landscape. This project underscores the importance of data analysis in informing business strategy and demonstrates the value of SQL skills in extracting insights from relational databases.
