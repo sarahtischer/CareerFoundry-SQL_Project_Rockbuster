@@ -1,3 +1,4 @@
+
 -- Revenue details by film rating
 SELECT
   film.rating,
