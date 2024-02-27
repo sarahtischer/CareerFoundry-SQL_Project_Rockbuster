@@ -1,3 +1,4 @@
+
 -- Top 10 countries with most customers
 SELECT 
   country.country,
