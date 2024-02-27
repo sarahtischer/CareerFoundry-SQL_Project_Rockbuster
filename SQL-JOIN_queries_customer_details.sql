@@ -1,3 +1,4 @@
+-- JOIN queries used to gather insights on customer details
 
 -- Top 10 countries with most customers
 SELECT 
