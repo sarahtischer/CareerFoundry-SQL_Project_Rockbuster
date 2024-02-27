@@ -1,3 +1,5 @@
+-- JOIN queries used to gain insight into geographic sales data
+
 -- Sales figures by country
 SELECT
   country.country,
