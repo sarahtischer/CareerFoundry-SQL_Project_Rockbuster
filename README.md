@@ -16,6 +16,9 @@ Rockbuster Stealth LLC, a movie rental company, is transitioning to an online vi
 * Use common table expressions for advanced queries
 * Create visualizations and presentations of SQL results for stakeholders
 
+## Data Set
+Rockbuster Data Set - This dataset was created by CareerFoundry for use in this analysis. The dataset includes information about stores, employees, inventory, film categories, film names, film languages, actors, customers, rental history, payment history, and addresses for stores, employees, and customers.
+
 ## Tools
 Data was analyzed using pgAdmin4 and PostgreSQL
 
