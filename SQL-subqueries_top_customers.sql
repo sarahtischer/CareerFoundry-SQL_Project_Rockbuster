@@ -1,3 +1,5 @@
+-- Queries using Common Table Expressions to evaluate details about the top 5 customers
+
 -- Finding average amount paid by the top 5 customers from top 10 cities
 SELECT AVG(total_amount_paid.amount_paid) AS average
 FROM (
