@@ -1,3 +1,5 @@
+-- Basic queries to obtain a general overview on various variables
+
 -- Distinct languages in the inventory
 SELECT DISTINCT language.name
 FROM inventory
