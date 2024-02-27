@@ -1,3 +1,5 @@
+-- Basic queries to obtain descriptive statistics on various variables
+
 -- Descriptive statistics of rental duration, rental rate, film length, and replacements costs
 SELECT 
   MIN(rental_duration) AS min_rent_duration,
