@@ -1,3 +1,4 @@
+-- JOIN queries used to gather insights on revenue details
 
 -- Revenue details by film rating
 SELECT
