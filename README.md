@@ -1,26 +1,23 @@
 # Rockbuster Stealth LLC Data Analysis Project
+<img src="Rockbuster_logo.png" alt="Rockbuster logo" style="width:416px;height:244px;">
 
 ## Overview
 Rockbuster Stealth LLC, a movie rental company, is transitioning to an online video rental service to compete with streaming giants like Netflix. As a data analyst hired by Rockbuster's business intelligence department, your job is to analyze the company's data using SQL to make strategic decisions. This project involves loading Rockbuster's data into a relational database management system (RDBMS), querying the data, and presenting actionable insights to the board of directors.
 
-## Analysis Highlights
-* Uses SQL to query and analyze Rockbuster data.
-* Focuses on answering key business questions related to revenue, customer behavior, and regional variations.
-* Emphasizes data visualization to communicate insights effectively.
-* Develops proficiency in SQL queries, data filtering, summarization, and presentation of results.
-* Fosters critical thinking and problem-solving skills in a business context.
-
 ## Project Tasks & Deliverables
-* Set up the PostgreSQL environment and begin your analysis.
-* Understand data storage structures and relational database schemas.
-* Write basic SQL commands to answer business questions.
-* Organize and sort data using SQL queries.
-* Filter and sort data based on specified criteria.
-* Clean up dirty data and create data profiles using SQL.
-* Use SQL to join tables and integrate data sources.
-* Write subqueries to answer complex business questions.
-* Use common table expressions for advanced queries.
-* Create visualizations and presentations of SQL results for stakeholders.
+* Set up the PostgreSQL environment and begin your analysis
+* Understand data storage structures and relational database schemas
+* Write basic SQL commands to answer business questions
+* Organize and sort data using SQL queries
+* Filter and sort data based on specified criteria
+* Clean up dirty data and create data profiles using SQL
+* Use SQL to join tables and integrate data sources
+* Write subqueries to answer complex business questions
+* Use common table expressions for advanced queries
+* Create visualizations and presentations of SQL results for stakeholders
+
+## Tools
+Data was analyzed using pgAdmin4 and PostgreSQL
 
 ## Visualizations
 Visualizations were created using [Tableau](https://public.tableau.com/app/profile/sarah.tischer/viz/3_10_Presenting_SQL_Results/RockbusterStealthLLC)
