@@ -1,5 +1,5 @@
 # Rockbuster Stealth LLC Data Analysis Project
-<img src="Rockbuster Stealth LLC.png" alt="Instacart logo" style="width:400px;height:120px;">
+![Logo](Rockbuster_Stealth_LLC_logo.png)
 
 ## Overview
 Rockbuster Stealth LLC, a movie rental company, is transitioning to an online video rental service to compete with streaming giants like Netflix. As a data analyst hired by Rockbuster's business intelligence department, your job is to analyze the company's data using SQL to make strategic decisions. This project involves loading Rockbuster's data into a relational database management system (RDBMS), querying the data, and presenting actionable insights to the board of directors.
