@@ -19,6 +19,13 @@ Rockbuster Stealth LLC, a movie rental company, is transitioning to an online vi
 ## Data Set
 Rockbuster Data Set - This dataset was created by CareerFoundry for use in this analysis. The dataset includes information about stores, employees, inventory, film categories, film names, film languages, actors, customers, rental history, payment history, and addresses for stores, employees, and customers.
 
+## Folders
+* 01 Project Management: Project brief
+* 02 Data: Original and prepared dataframes (note: data files are not uploaded to GitHub due to their size)
+* 03 Scripts: PostgreSQL queries
+* 04 Analysis: Data dictionary and Entity Relation Diagram (ERD)
+* 05 Sent_to_client: The final report presented in PowerPoint
+
 ## Tools
 Data was analyzed using pgAdmin4 and PostgreSQL
 
